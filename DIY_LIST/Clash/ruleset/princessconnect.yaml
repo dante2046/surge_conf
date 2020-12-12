@@ -1,0 +1,3 @@
+ payload: 
+  - DOMAIN-SUFFIX,so-net.tw
+  - IP-CIDR,35.234.10.203/32

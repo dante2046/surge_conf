@@ -1,0 +1,6 @@
+payload:
+  # 内容：禁止事项
+  - DOMAIN,google.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googleusercontent.com
