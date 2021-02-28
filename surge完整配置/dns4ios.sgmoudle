@@ -1,0 +1,6 @@
+#!name=DNS MODULE 
+#!desc=若本模块字段写进surge.conf配置, 当 MAC 和 iOS 设备使用同一份配置时,MAC 作为网关并开启 DHCP ,iOS 设备在 SSID 策略设置下使用了直连,会出现DNS错误,使用本模块完美解决
+#!system=ios
+
+[General]
+dns-server = system, 198.18.0.2
