@@ -2,5 +2,4 @@ DOMAIN,google.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN,beacons.gvt2.com
-DOMAIN,beacons2.gvt2.com:443
+DOMAIN-SUFFIX,gvt2.com
