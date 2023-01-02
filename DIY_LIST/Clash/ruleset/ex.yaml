@@ -6,3 +6,5 @@ payload:
   - DOMAIN,rd.fharr.com
   - DOMAIN-SUFFIX,nhentai.net
   - DOMAIN-SUFFIX,stacksocial.com
+  - DOMAIN-SUFFIX,stackcommerce.net
+  - IP-CIDR,174.127.195.0/24,✍️ EX,no-resolve
