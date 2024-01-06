@@ -4,4 +4,4 @@ DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,emby.ws
 DOMAIN-SUFFIX,emby2.misakaf.org 
 DOMAIN,push-kr.misakaf.org
-ip-cidr,102.223.180.108/32
+IP-CIDR,102.223.180.108/32
