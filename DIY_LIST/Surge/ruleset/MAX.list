@@ -2,7 +2,7 @@ DOMAIN,telegraph.prd.api.discomax.com
 DOMAIN,default.beam-latam.prd.api.discomax.com
 DOMAIN,default.any-any.prd.api.discomax.com
 DOMAIN,events.prd.api.discomax.com
-DOMAIN-suffix,braze.com
+DOMAIN-SUFFIX,braze.com
 #DOMAIN,
 #DOMAIN,
 #DOMAIN,
